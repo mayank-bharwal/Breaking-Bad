@@ -27,6 +27,10 @@ pip install pygame
 3. Press the **spacebar** to jump.
 4. Avoid obstacles and collect coins to increase your score.
 
+
+![Image description](breaking_bad_ss.jpg)
+
+
 ## Game Features
 
 - Player character with animations.
