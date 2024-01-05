@@ -4,6 +4,9 @@ Welcome to the Breaking Bad Python Platformer Game! This game is a simple platfo
 
 ## Getting Started
 
+![Image description](intro.jpg)
+
+
 ### Prerequisites
 
 Make sure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
