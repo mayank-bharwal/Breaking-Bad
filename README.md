@@ -1,7 +1,7 @@
 # Breaking Bad Python Platformer Game
 
 
-Welcome to the Breaking Bad Python Platformer Game! This game is a simple platformer where you control a character through various obstacles and collect coins. Be careful of the hazards, and try to collect as many coins as possible to increase your score!
+Welcome to the Breaking Bad Python Platformer Game! This game is a simple platformer where you control a character through various obstacles and collects crystal meth. Be careful of the hazards, and try to collect as many crystals as possible to increase your score!
 
 ![Image description](intro.jpg)
 
@@ -25,7 +25,7 @@ pip install pygame
 1. Run the `breaking_bad_game.py` script.
 2. Use the **left arrow** key to move left and the **right arrow** key to move right.
 3. Press the **spacebar** to jump.
-4. Avoid obstacles and collect coins to increase your score.
+4. Avoid obstacles and collect crystal meth to increase your score.
 
 
 ![Image description](Breaking_bad_ss.jpg)
@@ -35,7 +35,7 @@ pip install pygame
 ## Game Features
 
 - Player character with animations.
-- Coin collection system.
+- Crystal collection system.
 - Obstacles and hazards to avoid.
 - Score tracking.
 
