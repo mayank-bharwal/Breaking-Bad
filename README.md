@@ -1,10 +1,10 @@
 # Breaking Bad Python Platformer Game
 
+![Image description](intro.jpg)
+
 Welcome to the Breaking Bad Python Platformer Game! This game is a simple platformer where you control a character through various obstacles and collect coins. Be careful of the hazards, and try to collect as many coins as possible to increase your score!
 
 ## Getting Started
-
-![Image description](intro.jpg)
 
 
 ### Prerequisites
