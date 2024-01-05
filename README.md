@@ -28,7 +28,7 @@ pip install pygame
 4. Avoid obstacles and collect coins to increase your score.
 
 
-![Image descriptio(Breaking_bad_ss.jpg)
+![Image description](Breaking_bad_ss.jpg)
 
 
 
